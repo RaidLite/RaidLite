@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Groovy+%7C+Python+%7C+Automation+fan;Open-source+developer;Building+useful+tools" alt="Typing SVG" />
 </p>
 
-### 🚀 Tech Stack:
-
 <p align="center">
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
